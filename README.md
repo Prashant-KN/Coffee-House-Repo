@@ -7,17 +7,17 @@
 # Features
 
 ##	1) Customer
-	  a) Customer can be identified by a name and phone number(fetch the 		 		  customer by name or phone).
+	  a) Customer can be identified by a name and phone number(fetch the customer by name or phone).
 	  b) CRUD operations can be done on Customer.
 	  
 ##	2) Coffee
-	  a) Add new variety of coffee (each variety will have name, description, 		  total Servings available for the day).
+	  a) Add new variety of coffee (each variety will have name, description, total Servings available for the day).
 	  b) get coffee and delete coffee by ID. 
 	  
 ##  3) Order
-	  a) creates the order by taking customerId and list of coffeeId's and 	  		   			respective quantity, and saves the order.
+	  a) creates the order by taking customerId and list of coffeeId's and respective quantity, and saves the order.
 	  b) Fetch the order info by order number.
-	  c) Fetch report for the day which will have coffee types, total 			servings for the day,	total servings sold for the day.	  
+	  c) Fetch report for the day which will have coffee types, total servings for the day,	total servings sold for the day.	  
 	  
 # Developers
 	1) Prashant Kumar(prashantk@060@gmail.com)
