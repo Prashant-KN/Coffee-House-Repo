@@ -32,8 +32,8 @@
 	4) this jar can be run using java -jar command.
 	
 # SWAGGER UI
-	1) I have added a swagger ui, where ReST API's can be tested.
-	   http://localhost:8080/swagger-ui.html
+	1) Swagger UI link: http://localhost:8080/swagger-ui.html
+	  
 
 
 
